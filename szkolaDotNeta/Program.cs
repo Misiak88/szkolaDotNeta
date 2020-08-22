@@ -6,8 +6,8 @@ namespace szkolaDotNeta
     {
         public static void Main(string[] args)
         {
-            QuestTwo();
-            QuestThree();
+            //QuestTwo();
+            //QuestThree();
         }
 
         public static void QuestOne()
